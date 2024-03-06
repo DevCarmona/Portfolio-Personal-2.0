@@ -49,7 +49,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 /*=========================== Typed js ===========================*/
 const typed = new Typed('.multiple-text', {
-    strings: ['Aprendiz de Desenvolvedor Fullstack Jr!'],
+    strings: ['Aprendiz de Desenvolvedor Fullstack!'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
